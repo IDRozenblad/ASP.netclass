@@ -23,7 +23,7 @@
     "webpack-cli": "3.3.12"
   },
   "dependencies": {
-    "@microsoft/signalr": "^3.1.0",
+    "@microsoft/signalr": "^8.0.0",
     "@types/node": "^13.7.0"
   }
 }
